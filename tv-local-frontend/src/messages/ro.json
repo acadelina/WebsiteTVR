@@ -1,10 +1,84 @@
 {
-  "title": "Observator Transilvan",
-  "searchnews": "Cauta stiri...",
-  "news": "Stiri",
-  "contact": "Contact",
-  "about": "Despre noi",
-  "pools":"Sondaje",
-  "celebrities":"Celebritati",
-  "youtube":"Vezi pe youtube"
+ "Common": {
+    "title": "Observator Transilvan",
+    "searchnews": "Cauta stiri...",
+    "news": "Stiri",
+    "contact": "Contact",
+    "about": "Despre noi",
+    "pools": "Sondaje",
+    "celebrities": "Celebritati",
+    "sport": "Știri sport",
+    "education": "Știri despre educație",
+    "music": "Știri despre muzică",
+    "politic": "Știri politice",
+    "economic": "Știri economice",
+    "youtube": "Vezi pe youtube",
+    "presenter":"Prezentator",
+    "description":"Suntem o echipă dinamică și pasionată, dedicată să aducem comunității informații relevante, povești autentice și conținut de calitate."
+},
+  "Contact": {
+    "title": "Contactează-ne",
+    "updated": "Actualizat",
+    "headquarters": "Sediu",
+    "contact_data": "Date de contact",
+    "redactie": "Redactie",
+    "schedule": "Program",
+    "location_on_map": "Locație pe hartă",
+    "map_footer": "Date hartă",
+    "address": {
+      "line1": "TVR Cluj: Observator Transilvan",
+      "line2": "Strada Donath nr. 160",
+      "line3": "Cluj Napoca, cod 400293"
+    },
+    "program":{
+      "luni_vineri": "Luni-Vineri",
+      "sambata": "Sâmbătă",
+      "duminica": "Duminică: Închis"
+    } 
+    
+  },
+  "aboutus":{
+        "about": "Despre noi"
+    },
+    "Sondaj":
+  {
+      "question": "Cum ți-a plăcut emisiunea de azi?",
+      "answer_1": "Alege o notă între 1 și 10...",
+      "btn_vote": "Trimite votul tău",
+      "message":"Mulțumim pentru votul tău! Ai notat cu:",
+      "polls_results":"Rezultate sondaj",
+      "total_results":"Total voturi",
+      "feedback":"Recenzii",
+      "feedback_mess":"Ne-ar plăcea să ne spui ce părere ai despre emisiunile difuzate.",
+      "feedback_confirm":"Mulțumim pentru recenzia ta!",
+      "answer_2":"Scrie recenzia ta aici...",
+      "btn_feedback":"Trimite recenzie",
+      "recent":"Recenzii recente"
+  },
+
+  "Celebrities":
+  {
+    "title":"Celebrități",
+    "artists":"Artiști",
+    "writers":"Scriitori",
+    "scientists":"Oameni de știință",
+    "button":"Vezi pe youtube",
+    "description_art":
+    {
+      "d1":"Formație de muzică folk ungurească",
+      "d2":"Artist vizual și designer cu expoziții în Europa și SUA",
+      "d3":"Regizor artistic de teatru cu peste 30 de producții la activ",
+      "d4":"Cântăreață de jazz cu voce distinctivă și interpretări pline de emoție"
+    },
+     "description_wrt":
+    {
+      "d1":"Scriitoare cunoscută pentru romanele sale psihologice și proza poetică",
+      "d2":"Scriitor și traducător cu opere traduse în peste 15 limbi"
+    },
+     "description_sci":
+    {
+      "d1":"Expert internațional în psiho-oncologie",
+      "d2":"Economist specializat în politici de dezvoltare regională"
+    }
+  }
 }

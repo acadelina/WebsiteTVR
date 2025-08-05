@@ -1,10 +1,84 @@
 {
-  "title": "Transylvanian Watch",
-  "searchnews": "Search news...",
-  "news": "News",
-  "contact": "Contact",
-  "about": "About us",
-  "pools":"Pools",
-  "celebrities":"Celebrities",
-  "youtube":"Watch on youtube"
+ "Common": {
+    "title": "Transylvanian Observer",
+    "searchnews": "Search news...",
+    "news": "News",
+    "contact": "Contact",
+    "about": "About us",
+    "pools": "Polls",
+    "celebrities": "Celebrities",
+    "sport": "Sport news",
+    "education": "Education news",
+    "music": "Music news",
+    "politic": "Political news",
+    "economic": "Economic news",
+    "youtube": "See on youtube",
+    "presenter":"Presenter",
+    "description":"We are a dynamic and passionate team, dedicated to bringing relevant information, authentic stories, and quality content to the community."
+  },
+  "Contact": {
+    "title": "Contact us",
+    "updated": "Updated",
+    "headquarters": "Headquarters",
+    "contact_data": "Contact Details",
+    "redactie": "Editorial",
+    "schedule": "Schedule",
+    "location_on_map": "Location on map",
+    "map_footer": "Map details",
+    "address": {
+      "line1": "TVR Cluj: Transylvanian Observer",
+      "line2": "Donath Street no. 160",
+      "line3": "Cluj Napoca, postal code 400293"
+    },
+    "program":{
+      "luni_vineri": "Monday-Friday",
+      "sambata": "Saturday",
+      "duminica": "Sunday: Closed"
+    }
+  },
+  "Sondaj":
+  {
+      "question": "How did you like today's show?",
+      "answer_1": "Choose a number between 1 and 10...",
+      "btn_vote": "Send your vote",
+      "message":"Thank you for your vote! You rated with:",
+      "polls_results":"Polls results",
+      "total_results":"Total votes",
+      "feedback":"Feedback",
+      "feedback_mess":"We would like to hear your thoughts on the shows we aired.",
+      "feedback_confirm":"Thank you for your feedback!",
+      "answer_2":"Write your feedback here...",
+      "btn_feedback":"Send feedback",
+      "recent":"Recent feedbacks",
+      "number":"Number of votes"
+  },
+
+  "Celebrities":
+  {
+    "title":"Celebrities",
+    "artists":"Artists",
+    "writers":"Writers",
+    "scientists":"Scientists",
+    "button":"See on youtube",
+    "description_art":
+    {
+      "d1":"Hungarian folk music band",
+      "d2":"Visual artist and designer with exhibitions in Europe and the USA",
+      "d3":"Artistic theater director with over 30 productions to his credit",
+      "d4":"Jazz singer with a distinctive voice and emotionally charged performances"
+    },
+    "description_wrt":
+    {
+      "d1":"Writer known for her psychological novels and poetic prose",
+      "d2":"Writer and translator with works translated into over 15 languages"
+    },
+    "description_sci":
+    {
+      "d1":"International expert in psycho-oncology",
+      "d2":"Economist specialized in regional development policies"
+    }
+  },
+    "aboutus":{
+        "about": "About us"
+    }
 }

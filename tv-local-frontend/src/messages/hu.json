@@ -1,4 +1,5 @@
 {
+  "Common": {
   "title": "Erdelyi Figyelo",
   "searchnews": "Hirek keresese...",
   "news": "Hir",
@@ -6,5 +7,78 @@
   "about": "Rolunk",
   "pools":"Szavazasok",
   "celebrities":"Hiresseg",
-  "youtube":"Lásd a YouTube-on"
+  "sport": "Sport hírek",
+  "education": "Oktatási hírek",
+  "music": "Zenei hírek",
+  "politic": "Politikai hírek",
+  "economic": "Gazdasági hírek",
+  "youtube":"Lásd a YouTube-on",
+  "presenter":"Bevezető",
+  "description":"Dinamikus és szenvedélyes csapat vagyunk, amely elkötelezett amellett, hogy releváns információkat, hiteles történeteket és minőségi tartalmakat nyújtson a közösségnek."
+}
+,
+  "Contact": {
+    "title": "Vegye fel velünk a kapcsolatot",
+    "updated": "Frissítve",
+    "headquarters": "Központ",
+    "contact_data": "Elérhetőségei",
+    "redactie": "Szerkesztőségi",
+    "schedule": "Menetrend",
+    "location_on_map": "Helyszín a térképen",
+    "map_footer": "Térkép részletei",
+    "address": {
+      "line1": "TVR Kolozsvár: Erdélyi Figyelő",
+      "line2": "Donáth utca 160. szám",
+      "line3": "Kolozsvár, 400293 irányítószám"
+    },
+    "program":{
+      "luni_vineri": "Hétfő-Péntek",
+      "sambata": "Szombat",
+      "duminica": "Vasárnap: Zárva"
+    }
+  },
+  "Sondaj":
+  {
+      "question": "Hogy tetszett a mai műsor?",
+      "answer_1": "Válassz egy számot 1 és 10 között...",
+      "btn_vote": "Küldje el szavazatát",
+      "message":"Köszönjük a szavazatát! Az Ön értékelése:",
+      "polls_results":"Felmérés eredményei",
+      "total_results":"Összes szavazat",
+      "feedback":"Visszacsatolás",
+      "feedback_mess":"Szeretnénk hallani a véleményét az általunk sugárzott műsorokról.",
+      "feedback_confirm":"Köszönjük a visszajelzését!",
+      "answer_2":"Írd ide a visszajelzésedet...",
+      "btn_feedback":"Visszajelzés küldése",
+      "recent":"Legutóbbi visszajelzés"
+  },
+
+  "Celebrities":
+  {
+    "title":"Hírességek",
+    "artists":"Művészek",
+    "writers":"Írók",
+    "scientists":"Tudósok",
+    "button":"Lásd a youtube-on",
+    "description_art":
+    {
+      "d1":"Magyar népzenei zenekar",
+      "d2":"Képzőművész és designer, akinek kiállításai voltak Európában és az Egyesült Államokban",
+      "d3":"Művészeti színházi rendező, több mint 30 produkcióval a nevéhez fűződik",
+      "d4":"Jazzénekesnő jellegzetes hanggal és érzelmesen feltöltött előadásokkal"
+    },
+    "description_wrt":
+    {
+      "d1":"Lélektani regényeiről és költői prózájáról ismert író",
+      "d2":"Író és műfordító, akinek műveit több mint 15 nyelvre fordították le"
+    },
+    "description_sci":
+    {
+      "d1":"Nemzetközi pszichoonkológiai szakértő",
+      "d2":"Regionális fejlesztési politikára szakosodott közgazdász"
+    }
+  },
+    "aboutus":{
+        "about": "Rolunk"
+    }
 }

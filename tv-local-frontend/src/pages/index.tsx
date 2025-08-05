@@ -1,6 +1,7 @@
 //'use client';
 import Image from 'next/image'
 import { useState } from 'react';
+import Footer from '@/components/Footer'
 import NewsFeed from '@/components/NewsFeed';
 import SearchBar from '@/components/SearchBar';
 import Navbar from '@/components/Navbar';
@@ -18,7 +19,7 @@ export async function getStaticProps({ locale }: GetStaticPropsContext) {
 }
 
 export default function Home() {
-  const t = useTranslations()
+  //const t = useTranslations('Common')
   const [query, setQuery] = useState('');
 
   return (
@@ -29,7 +30,8 @@ export default function Home() {
         <SearchBar query={query} setQuery={setQuery} />
         <NewsFeed query={query} />
       </div>
-      
+      <Footer/>
     </main>
+    
   );
 }

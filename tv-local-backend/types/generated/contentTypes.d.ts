@@ -398,6 +398,12 @@ export interface ApiStireStire extends Schema.CollectionType {
           localized: true;
         };
       }>;
+    imagine: Attribute.Media<'images' | 'files' | 'videos' | 'audios'> &
+      Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
     link: Attribute.String &
       Attribute.SetPluginOptions<{
         i18n: {

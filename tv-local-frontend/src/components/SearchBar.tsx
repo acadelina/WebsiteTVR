@@ -9,7 +9,7 @@ export default function SearchBar({ query, setQuery }: Props) {
     e.preventDefault();
     
   };
-  const t = useTranslations()
+  const t = useTranslations('Common')
 
   return (
     <form onSubmit={handleSearch} className="mb-6">

@@ -7,6 +7,9 @@ const nextConfig = {
     defaultLocale: 'ro',
     localeDetection: true,
   },
+  images: {
+    domains: ['flagcdn.com'],
+  },
   reactStrictMode: true,
 };
 
